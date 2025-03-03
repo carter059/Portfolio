@@ -116,19 +116,19 @@ const technologies = [
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "supabase",
+    name: "Supabase",
     icon: supabase,
   },
   {
-    name: "c#",
+    name: "C#",
     icon: csharp,
   },
   {
-    name: "python3",
+    name: "Python3",
     icon: python,
   },
 ];
